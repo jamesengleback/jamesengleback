@@ -5,5 +5,3 @@
 ### teaching:
 [**python club**](https://github.com/UoMMIB/Python-Club) 🐍 @ the Manchester Institute of Biotechnology
 
-### [**python club**](https://github.com/UoMMIB/Python-Club) 🐍 @ the Manchester Institute of Biotechnology
-
