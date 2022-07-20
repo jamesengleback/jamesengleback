@@ -3,9 +3,9 @@
 ### 🧪 🥼 - protein engineer  🧬 🧫
 <details>
 
-- [**PhD**](https://github.com/thesis) - Engineering enzymes to degrade herbicides in 2 ways:
-	- [**Virtual Directed Evolution**](https://github.com/thesis) - an algorithm for enzyme engineering based on simulation and sequence optimization algorithms. 
-	- [**Screening Fist**](https://github.com/screening-fist) - an operation for profiling enzyme-substrate specificity by retraining an AI on custom generated screening data to predict enzyme-compound binding from sequence. Thats useful shit.
+- [**PhD**](https://github.com/jamesengleback/thesis) - Engineering enzymes to degrade herbicides in 2 ways:
+	- [**Virtual Directed Evolution**](https://github.com/jamesengleback/vde) - an algorithm for enzyme engineering based on simulation and sequence optimization algorithms. 
+	- [**Screening Fist**](https://github.com/jamesengleback/screening-fist) - an operation for profiling enzyme-substrate specificity by retraining an AI on custom generated screening data to predict enzyme-compound binding from sequence. Thats useful shit.
 
 - [**Mellizime/Epoch**]() - Protein engineer there for 1 year. Secret shit.
 
