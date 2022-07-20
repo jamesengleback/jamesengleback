@@ -13,6 +13,7 @@
 
 ### teaching:
 <details>
+
 - [**python club**](https://github.com/UoMMIB/Python-Club) 🐍 @ the Manchester Institute of Biotechnology - taught that weekly over lockdown for about a year. 
 </details>
 
